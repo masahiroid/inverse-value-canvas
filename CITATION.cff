@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it using these metadata."
+title: "Inverse Value Canvas"
+authors:
+  - family-names: Nakatsugawa
+    given-names: Masahiro
+    orcid: "https://orcid.org/0009-0000-3224-0103"
+abstract: >-
+  A conceptual framework that turns missing features or omitted elements from deficiencies
+  into value for those harmed by their presence, in four steps: Missing, Harmed, Inverted
+  Ally and Strategic Fit; used to convert absence into a strategic asset.
+repository-code: "https://github.com/masahiroid/inverse-value-canvas"
+keywords:
+  - strategy
+  - value-design
+  - product-strategy
+  - framework

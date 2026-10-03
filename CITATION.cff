@@ -11,6 +11,9 @@ abstract: >-
   Ally and Strategic Fit; used to convert absence into a strategic asset.
 repository-code: "https://github.com/masahiroid/inverse-value-canvas"
 license: CC-BY-4.0
+doi: 10.5281/zenodo.23122895
+version: "1.0.0"
+date-released: "2026-10-04"
 keywords:
   - strategy
   - value-design

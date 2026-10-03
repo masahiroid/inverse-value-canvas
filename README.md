@@ -1,5 +1,7 @@
 ## Inverse Value Canvas
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23122895.svg)](https://doi.org/10.5281/zenodo.23122895)
+
 ### Overview
 The Inverse Value Canvas is a conceptual framework that transforms "missing features" or "omitted elements" from mere deficiencies into **value for those who have suffered losses due to their presence**. It converts absence into a "strategic asset" and is used to discover co-creation opportunities with different industries and markets.
 

@@ -1,0 +1,26 @@
+{
+  "title": "Inverse Value Canvas",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "description": "A conceptual framework that turns missing features or omitted elements from deficiencies into value for those harmed by their presence, in four steps: Missing, Harmed, Inverted Ally and Strategic Fit; used to convert absence into a strategic asset.",
+  "creators": [
+    {
+      "name": "Nakatsugawa, Masahiro",
+      "orcid": "0009-0000-3224-0103"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "strategy",
+    "value-design",
+    "product-strategy",
+    "framework"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/masahiroid/inverse-value-canvas",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

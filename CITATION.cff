@@ -10,6 +10,7 @@ abstract: >-
   into value for those harmed by their presence, in four steps: Missing, Harmed, Inverted
   Ally and Strategic Fit; used to convert absence into a strategic asset.
 repository-code: "https://github.com/masahiroid/inverse-value-canvas"
+license: CC-BY-4.0
 keywords:
   - strategy
   - value-design
